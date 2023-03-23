@@ -27,7 +27,7 @@ if you like what i do, maybe consider buying me a coffee 🥺👉👈
 </p>
 
 
- ![](https://visitor-badge.glitch.me/badge?page_id=Mahammadnajaf.Mahammadnajaf)
+<img src="https://visitor-badge.glitch.me/badge?page_id=Mahammadnajaf" alt="Mahammadnajaf"/>
 
 
 
