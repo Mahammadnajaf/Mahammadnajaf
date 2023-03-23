@@ -12,14 +12,6 @@ Ability to work as part of a team to develop and implement systems.Quick learner
 
 
 
-<!--
-**Mahammadnajaf/Mahammadnajaf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-
-
-
-
 
 
 if you like what i do, maybe consider buying me a coffee 🥺👉👈
@@ -31,3 +23,6 @@ if you like what i do, maybe consider buying me a coffee 🥺👉👈
 <h3>Where to find me</h3>
 <p><a href="https://github.com/Mahammadnajaf" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>  </a> <a href="https://www.linkedin.com/in/mahammadnajafov/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://medium.com/@najafovmahammad1" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
 </p>
+
+<!--
+**Mahammadnajaf/Mahammadnajaf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
