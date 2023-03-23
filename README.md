@@ -27,11 +27,11 @@ Here are some ideas to get you started:
 
 
 
-If you like any of my projects, or if you want to support my work, please kindly consider becoming a sponsor, so it gives me great motivation and I can relentlessly maintain my projects and contribute to the open-source community.
 
-I am trying to give a strong vision for my developer friends and colleagues which helps them to make their development workflow as much as easy as possible!
 
-Thanks a lot for your support! 💚
+if you like what i do, maybe consider buying me a coffee/tea pleading_facepoint_rightpoint_left
+
+
 <a href="https://www.buymeacoffee.com/najafovmahX" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
 
