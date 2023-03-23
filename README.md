@@ -29,10 +29,10 @@ Here are some ideas to get you started:
 
 
 
-if you like what i do, maybe consider buying me a coffee/tea pleading_facepoint_rightpoint_left
+if you like what i do, maybe consider buying me a coffee 🥺👉👈
 
 
-<a href="https://www.buymeacoffee.com/najafovmahX" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+<a href="https://www.buymeacoffee.com/najafovmahX" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="100" ></a>
 
 
 
