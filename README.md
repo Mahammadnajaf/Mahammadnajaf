@@ -15,11 +15,6 @@ Software Engineer, with a strong knowledge of software design and development.
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 
-  
-  
- <a> 
-- 💼 any freelance work? do reach, [email](mailto:najafovmahammad1@gmail.com)
-- 💬 ask me about anything, i am happy to help;</a>
 
 if you like what i do, maybe consider buying me a coffee 🥺👉👈
 
@@ -36,6 +31,8 @@ if you like what i do, maybe consider buying me a coffee 🥺👉👈
 
 
 
+- 💼 any freelance work? do reach, [email](mailto:najafovmahammad1@gmail.com)
+- 💬 ask me about anything, i am happy to help;
 
 <!--
 **Mahammadnajaf/Mahammadnajaf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
