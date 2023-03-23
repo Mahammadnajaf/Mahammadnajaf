@@ -2,7 +2,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 
-<p>Welcome to my page! </br> I'm Mahammad, Java developer <img src="https://cdn-icons-png.flaticon.com/512/197/197571.png" width="13"/> <in> <b>Frankfurt, Germany</b>. </p>
+<p>Welcome to my page! </br> I'm Mahammad, Java developer  <in> <b>Frankfurt, Germany</b> <img src="https://cdn-icons-png.flaticon.com/512/197/197571.png" width="13"/>. </p>
 <h3>Things I code with</h3>
 
 
