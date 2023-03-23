@@ -1,5 +1,10 @@
 # Hi there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />
 <p align="center">
+<a href="https://linkedin.com/in/apoorvtyagi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="apoorvtyagi" height="30" width="30" /></a>&nbsp;
+<a href="https://medium.com/@najafovmahammad1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="apoorv#4040" height="40" width="30" /></a>&nbsp;
+<a href="https://https://www.buymeacoffee.com/najafovmahX"><img align="center" alt="Buy me a Coffee" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/buymeacoffee.svg" /></a>
+</p>
+
 
 <p> I'm Mahammad, Java developer  <in> <b>Frankfurt, Germany</b> <img src="https://cdn-icons-png.flaticon.com/512/197/197571.png" width="13"/>. </p>
 
@@ -14,19 +19,6 @@ Software Engineer, with a strong knowledge of software design and development.
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
-
-
-if you like what i do, maybe consider buying me a coffee:)
-
-<a href="https://www.buymeacoffee.com/najafovmahX" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="80" ></a>
-
-
-
-
-<h3>Where to find me</h3>
-<p><a href="https://github.com/Mahammadnajaf" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>  </a> <a href="https://www.linkedin.com/in/mahammadnajafov/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://medium.com/@najafovmahammad1" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
-<img src="https://visitor-badge.glitch.me/badge?page_id=Mahammadnajaf" alt="Mahammadnajaf"/>
-</p>
 
 
 
