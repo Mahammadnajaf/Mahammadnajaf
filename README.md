@@ -17,9 +17,9 @@ Software Engineer, with a strong knowledge of software design and development.
 
   
   
-  
+ <a> 
 - 💼 any freelance work? do reach, [email](mailto:najafovmahammad1@gmail.com)
-- 💬 ask me about anything, i am happy to help;
+- 💬 ask me about anything, i am happy to help;</a>
 
 if you like what i do, maybe consider buying me a coffee 🥺👉👈
 
