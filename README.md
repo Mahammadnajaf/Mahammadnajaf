@@ -3,8 +3,9 @@
 
 <p> I'm Mahammad, Java developer  <in> <b>Frankfurt, Germany</b> <img src="https://cdn-icons-png.flaticon.com/512/197/197571.png" width="13"/>. </p>
 
-Software Engineer, with a strong knowledge of software design and development. 
--Proficient in Java, Spring, and Hibernate frameworks. Skilled in working with development tools and multiple operating systems. Committed to delivering high-quality solutions and passionate about continued growth in the software development field.
+Software Engineer, with a strong knowledge of software design and development.
+  
+- Proficient in Java, Spring, and Hibernate frameworks.Skilled in working with development tools and multiple operating systems. Committed to delivering high-quality solutions and passionate about continued growth in the software development field.
 - Software architectural design, development, lifecycle
 - Experience with multiple programming languages (Python, C/C++), platforms, environments, frameworks andoperating systems (, MS Windows, Linux, .NET, )
 Ability to work as part of a team to develop and implement systems.Quick learner with strong goals to develop and grow..
